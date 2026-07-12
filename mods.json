@@ -96,10 +96,10 @@
         "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/modernfix-forge-5.27.58+mc1.20.1.jar"
     },
     {
-        "FileName":  "moonlight-1.20-2.16.34-forge.jar",
-        "Size":  1419416,
-        "Hash":  "5e20f2f0ce56a534accb32f80853d5a246599a4d",
-        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/moonlight-1.20-2.16.34-forge.jar"
+        "FileName":  "moonlight-1.20-2.8.6-forge.jar",
+        "Size":  934017,
+        "Hash":  "6dcd0610212c8ea644074f24a15e31e5b02bef17",
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/moonlight-1.20-2.8.6-forge.jar"
     },
     {
         "FileName":  "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
@@ -126,10 +126,10 @@
         "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/spark-1.10.53-forge.jar"
     },
     {
-        "FileName":  "supplementaries-1.20-3.1.43-forge.jar",
-        "Size":  13667742,
-        "Hash":  "326d65a29981de28016e3828370d68a8f63e1798",
-        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/supplementaries-1.20-3.1.43-forge.jar"
+        "FileName":  "supplementaries-1.20-2.5.23.jar",
+        "Size":  14510549,
+        "Hash":  "450983d7e3ca1e460f539530a9c15e9ca0739543",
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/supplementaries-1.20-2.5.23.jar"
     },
     {
         "FileName":  "test.jar",
