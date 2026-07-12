@@ -1,0 +1,146 @@
+﻿[
+    {
+        "FileName":  "another_furniture-forge-1.20.1-3.0.4.jar",
+        "Size":  2463633,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/another_furniture-forge-1.20.1-3.0.4.jar"
+    },
+    {
+        "FileName":  "architectury-10.1.20-minecraftforge.jar",
+        "Size":  594194,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/architectury-10.1.20-minecraftforge.jar"
+    },
+    {
+        "FileName":  "beautify-2.0.2.jar",
+        "Size":  838292,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/beautify-2.0.2.jar"
+    },
+    {
+        "FileName":  "embeddium-0.3.31+mc1.20.1.jar",
+        "Size":  1320675,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/embeddium-0.3.31+mc1.20.1.jar"
+    },
+    {
+        "FileName":  "entityculling-forge-1.10.5-mc1.20.1.jar",
+        "Size":  1590221,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/entityculling-forge-1.10.5-mc1.20.1.jar"
+    },
+    {
+        "FileName":  "FarmersDelight-1.20.1-1.3.2.jar",
+        "Size":  3313327,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/FarmersDelight-1.20.1-1.3.2.jar"
+    },
+    {
+        "FileName":  "ferritecore-6.0.1-forge.jar",
+        "Size":  123034,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/ferritecore-6.0.1-forge.jar"
+    },
+    {
+        "FileName":  "handcrafted-forge-1.20.1-3.0.6.jar",
+        "Size":  7111059,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/handcrafted-forge-1.20.1-3.0.6.jar"
+    },
+    {
+        "FileName":  "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+        "Size":  532063,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar"
+    },
+    {
+        "FileName":  "jei-1.20.1-forge-15.20.0.134.jar",
+        "Size":  1412399,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/jei-1.20.1-forge-15.20.0.134.jar"
+    },
+    {
+        "FileName":  "letsdo-bakery-forge-1.1.15.jar",
+        "Size":  1539376,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/letsdo-bakery-forge-1.1.15.jar"
+    },
+    {
+        "FileName":  "letsdo-brewery-forge-1.1.9.jar",
+        "Size":  2228646,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/letsdo-brewery-forge-1.1.9.jar"
+    },
+    {
+        "FileName":  "letsdo-herbalbrews-forge-1.0.12.jar",
+        "Size":  735868,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/letsdo-herbalbrews-forge-1.0.12.jar"
+    },
+    {
+        "FileName":  "letsdo-vinery-forge-1.4.41.jar",
+        "Size":  2041283,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/letsdo-vinery-forge-1.4.41.jar"
+    },
+    {
+        "FileName":  "modernfix-forge-5.27.58+mc1.20.1.jar",
+        "Size":  990660,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/modernfix-forge-5.27.58+mc1.20.1.jar"
+    },
+    {
+        "FileName":  "moonlight-1.20-2.16.34-forge.jar",
+        "Size":  1419416,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/moonlight-1.20-2.16.34-forge.jar"
+    },
+    {
+        "FileName":  "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+        "Size":  76237,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
+    },
+    {
+        "FileName":  "oculus-mc1.20.1-1.8.0.jar",
+        "Size":  2851119,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/oculus-mc1.20.1-1.8.0.jar"
+    },
+    {
+        "FileName":  "resourcefullib-forge-1.20.1-2.1.29.jar",
+        "Size":  432753,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/resourcefullib-forge-1.20.1-2.1.29.jar"
+    },
+    {
+        "FileName":  "spark-1.10.53-forge.jar",
+        "Size":  3114590,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/spark-1.10.53-forge.jar"
+    },
+    {
+        "FileName":  "supplementaries-1.20-3.1.43-forge.jar",
+        "Size":  13667742,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/supplementaries-1.20-3.1.43-forge.jar"
+    },
+    {
+        "FileName":  "voicechat-forge-1.20.1-2.6.20.jar",
+        "Size":  4911858,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/voicechat-forge-1.20.1-2.6.20.jar"
+    },
+    {
+        "FileName":  "xaerominimap-forge-1.20.1-26.2.0.jar",
+        "Size":  2182785,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/xaerominimap-forge-1.20.1-26.2.0.jar"
+    },
+    {
+        "FileName":  "xaeroworldmap-forge-1.20.1-1.42.0.jar",
+        "Size":  1409051,
+        "Hash":  null,
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/xaeroworldmap-forge-1.20.1-1.42.0.jar"
+    }
+]
