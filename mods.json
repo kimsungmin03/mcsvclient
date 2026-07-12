@@ -132,12 +132,6 @@
         "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/supplementaries-1.20-2.5.15.jar"
     },
     {
-        "FileName":  "test.jar",
-        "Size":  15,
-        "Hash":  "90ed976b60923acf7d6b4167d10b7936edbc5e47",
-        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/test.jar"
-    },
-    {
         "FileName":  "voicechat-forge-1.20.1-2.6.20.jar",
         "Size":  4911858,
         "Hash":  "c5963f6c9a7bca129a10da44c7b62f95edd8049c",
