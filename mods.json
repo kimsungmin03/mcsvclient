@@ -18,6 +18,18 @@
         "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/beautify-2.0.2.jar"
     },
     {
+        "FileName":  "Cobblemon-fabric-1.5.2+1.20.1.jar",
+        "Size":  109746268,
+        "Hash":  "2465e767f2659240f1c16549e602cb6e8b9145db",
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/Cobblemon-fabric-1.5.2+1.20.1.jar"
+    },
+    {
+        "FileName":  "cobblemonrider-1.2.4.jar",
+        "Size":  49358,
+        "Hash":  "b06b6b1ea7549c043bf5c1b2834ec12081862843",
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/cobblemonrider-1.2.4.jar"
+    },
+    {
         "FileName":  "embeddium-0.3.31+mc1.20.1.jar",
         "Size":  1320675,
         "Hash":  "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
@@ -42,10 +54,28 @@
         "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/ferritecore-6.0.1-forge.jar"
     },
     {
+        "FileName":  "fightorflight-forge-0.6.2.jar",
+        "Size":  1182683,
+        "Hash":  "063daa6f5d17a4b10cba91a3664fe42ee0715fc3",
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/fightorflight-forge-0.6.2.jar"
+    },
+    {
+        "FileName":  "Gts-2.3.1-forge.jar",
+        "Size":  179250,
+        "Hash":  "86341aa4e88a7b69666d12254a6d3f90eb27db75",
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/Gts-2.3.1-forge.jar"
+    },
+    {
         "FileName":  "handcrafted-forge-1.20.1-3.0.6.jar",
         "Size":  7111059,
         "Hash":  "f1b9a009529134c736c59d6d192d53a4a25e5e5f",
         "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/handcrafted-forge-1.20.1-3.0.6.jar"
+    },
+    {
+        "FileName":  "Hunt-1.1.0-forge.jar",
+        "Size":  69137,
+        "Hash":  "c360a796f9b12eb4e578bc0aff89587754bd5242",
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/Hunt-1.1.0-forge.jar"
     },
     {
         "FileName":  "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
@@ -58,6 +88,12 @@
         "Size":  1412399,
         "Hash":  "1150671952108303b4b02d2b09f42877fe14b138",
         "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/jei-1.20.1-forge-15.20.0.134.jar"
+    },
+    {
+        "FileName":  "kotlinforforge-4.12.0-all.jar",
+        "Size":  7442998,
+        "Hash":  "962fdb760409d6d71cbf079235f1ca94e3863a22",
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/kotlinforforge-4.12.0-all.jar"
     },
     {
         "FileName":  "letsdo-API-forge-1.2.15-forge.jar",
@@ -88,6 +124,12 @@
         "Size":  2041283,
         "Hash":  "68ed3fa9524bef601064f49f60a30423db2f8fdc",
         "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/letsdo-vinery-forge-1.4.41.jar"
+    },
+    {
+        "FileName":  "MegamonsForge-1.2.1.jar",
+        "Size":  2720339,
+        "Hash":  "c64d74c7889fa7b30944a599a3e1c1fce1dc9a1a",
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/MegamonsForge-1.2.1.jar"
     },
     {
         "FileName":  "modernfix-forge-5.27.58+mc1.20.1.jar",
@@ -127,9 +169,21 @@
     },
     {
         "FileName":  "supplementaries-1.20-2.5.15.jar",
+        "Size":  14494474,
+        "Hash":  "9575fb1fec7916bc081239b77ff07505194736f5",
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/supplementaries-1.20-2.5.15.jar"
+    },
+    {
+        "FileName":  "supplementaries-1.20-2.5.23.jar",
         "Size":  14510549,
         "Hash":  "450983d7e3ca1e460f539530a9c15e9ca0739543",
-        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/supplementaries-1.20-2.5.15.jar"
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/supplementaries-1.20-2.5.23.jar"
+    },
+    {
+        "FileName":  "test.jar",
+        "Size":  15,
+        "Hash":  "90ed976b60923acf7d6b4167d10b7936edbc5e47",
+        "DownloadUrl":  "https://kimsungmin03.github.io/mcsvclient/mods/test.jar"
     },
     {
         "FileName":  "voicechat-forge-1.20.1-2.6.20.jar",
